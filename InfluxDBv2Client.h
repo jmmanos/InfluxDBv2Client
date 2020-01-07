@@ -1,0 +1,14 @@
+//
+// Created by jmmanos on 1/6/20.
+//
+
+#ifndef INFLUXDBV2CLIENT_INFLUXDBV2CLIENT_H
+#define INFLUXDBV2CLIENT_INFLUXDBV2CLIENT_H
+
+
+class InfluxDBv2Client {
+
+};
+
+
+#endif //INFLUXDBV2CLIENT_INFLUXDBV2CLIENT_H
